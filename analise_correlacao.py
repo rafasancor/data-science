@@ -1,4 +1,5 @@
 # 03_analise_correlacao.py
+# Autor: Rafael dos Santos
 
 import pandas as pd
 import matplotlib.pyplot as plt

@@ -1,4 +1,5 @@
 # 01_analise_descritiva_numerica.py
+# Autor: Rafael dos Santos
 
 import pandas as pd
 import matplotlib.pyplot as plt

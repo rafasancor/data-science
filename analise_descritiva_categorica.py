@@ -1,4 +1,5 @@
 # 02_analise_descritiva_categorica.py
+# Autor: Rafael dos Santos
 
 import pandas as pd
 import matplotlib.pyplot as plt
